@@ -11,7 +11,7 @@ about:
       text: lxx22081501@mail.ustc.edu.cn
       href: mailto:lxx22081501@mail.ustc.edu.cn
     - icon: github
-      text: arlionn
+      text: XinxinLi
       href: https://github.com/XinxinLi2004
  #   - icon: book
   #    text: Google Scholar
@@ -36,17 +36,19 @@ about:
     #  href: https://www.lianxh.cn
     - icon: 📝
       text: CV
-      href: CV.pdf  
+      href: XINXIN_LI_CV.pdf  
 ---
 
 ::: {#hero-heading}
 
-Hello! I'm XinxinLi, a student at University of Science and Technology of China, majoring in Bioscience.
+Hello! 
+I'm XinxinLi, a student at University of Science and Technology of China, majoring in Bioscience.
+I'm applying for PhD, and I 'm very grateful to open my profile, click the CV button, and learn more about my background.
+Thank you for giving me a valuable Chance.
+
+## Education Background
 
 
-## Background
-
-
-- 2022 - now: Bachelor of Biology, , University of Science and Technology of China, China, majoring in Bioscience.
+- 2022 - now: Bachelor of Biology, University of Science and Technology of China, China, majoring in Bioscience.
 
 :::
