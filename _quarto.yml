@@ -30,8 +30,8 @@ website:
     #    href: blog.qmd
     #  - text: "Codes"
      #   href: codes.qmd
-      - text: "中文"
-        href: Chinese.qmd
+      #- text: "Experience"
+      #  href: about.qmd
       - text: "CV"
         href: XINXIN_LI_CV.pdf
 

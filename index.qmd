@@ -36,14 +36,16 @@ about:
     #  href: https://www.lianxh.cn
     - icon: 📝
       text: CV
-      href: XINXIN_LI_CV.pdf  
+      href: https://xinxinli2004.github.io/XinxinLi.github.io/XINXIN_LI_CV.pdf 
 ---
 
 ::: {#hero-heading}
 
 Hello! 
 I'm XinxinLi, a student at University of Science and Technology of China, majoring in Bioscience.
+
 I'm applying for PhD, and I 'm very grateful to open my profile, click the CV button, and learn more about my background.
+
 Thank you for giving me a valuable Chance.
 
 ## Education Background
