@@ -5,14 +5,14 @@ project:
 website:
   page-navigation: true
   title: "XinXin Li"
-  site-url: https://FLASElxx.github.io
+  site-url: https://XinxinLi.github.io
   favicon: images/site-logo.png
-  repo-url: https://github.com/FLASElxx/FLASElxx.github.io
+  repo-url: https://github.com/XinxinLi2004/XinxinLi.github.io
   repo-actions: [edit, issue]
   
   page-footer:
     left: |
-      [lianxh.cn](https://www.lianxh.cn)<br>
+      [XinxinLi](https://XinxinLi.github.io)<br>
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
@@ -22,18 +22,18 @@ website:
     right: 
       - text: "Home"
         href: index.qmd
-      - text: "Publications"
-        href: publications.qmd
-      - text: "Books"
-        href: books.qmd
-      - text: "Blogs"
-        href: blog.qmd
-      - text: "Codes"
-        href: codes.qmd
+   #   - text: "Publications"
+     #   href: publications.qmd
+    #  - text: "Books"
+    #    href: books.qmd
+     # - text: "Blogs"
+    #    href: blog.qmd
+    #  - text: "Codes"
+     #   href: codes.qmd
       - text: "中文"
         href: Chinese.qmd
       - text: "CV"
-        href: CV.pdf
+        href: XINXIN_LI_CV.pdf
 
 format:
   html:
