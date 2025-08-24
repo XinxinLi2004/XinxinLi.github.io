@@ -34,6 +34,8 @@ website:
       #  href: about.qmd
       - text: "CV"
         href: XINXIN_LI_CV.pdf
+      - text: "Transcript"
+        href: Transcript.pdf
 
 format:
   html:
