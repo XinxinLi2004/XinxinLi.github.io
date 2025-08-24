@@ -13,9 +13,7 @@ about:
     - icon: github
       text: XinxinLi
       href: https://github.com/XinxinLi2004
-    - icon: book
-      text: Transcript
-      href: https://xinxinli2004.github.io/XinxinLi.github.io/Transcript.pdf
+
     #- icon: fingerprint
   #    text: ORCID
    #   href: https://orcid.org/0000-0002-2011-7535
@@ -37,6 +35,9 @@ about:
     - icon: 📝
       text: CV
       href: https://xinxinli2004.github.io/XinxinLi.github.io/XINXIN_LI_CV.pdf 
+    - icon: book
+      text: Transcript
+      href: https://xinxinli2004.github.io/XinxinLi.github.io/Transcript.pdf      
 ---
 
 ::: {#hero-heading}
