@@ -13,9 +13,9 @@ about:
     - icon: github
       text: XinxinLi
       href: https://github.com/XinxinLi2004
- #   - icon: book
-  #    text: Google Scholar
-  #    href: https://scholar.google.com/citations?user=tlkDP2AAAAAJ
+    - icon: book
+      text: Transcript
+      href: https://xinxinli2004.github.io/XinxinLi.github.io/Transcript.pdf
     #- icon: fingerprint
   #    text: ORCID
    #   href: https://orcid.org/0000-0002-2011-7535
@@ -44,9 +44,9 @@ about:
 Hello! 
 I'm XinxinLi, a student at University of Science and Technology of China, majoring in Bioscience.
 
-I'm applying for PhD, and I 'm very grateful to open my profile, click the CV button, and learn more about my background.
+I'm applying for PhD, and I 'm very grateful to open my profile, click the CV and Transcript button, and learn more about my background.
 
-Thank you for giving me a valuable Chance.
+Thank you for giving me a valuable Chance. I'm sure I will do my best.
 
 ## Education Background
 
